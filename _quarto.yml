@@ -16,7 +16,8 @@ website:
         text: Travel Experience
       - href: reflection.qmd
         text: Reflection
-      - hainan_mifen.qmd
+      - href: hainan_mifen.qmd
+        text: Hainan Mifen
 
 format:
   html:
