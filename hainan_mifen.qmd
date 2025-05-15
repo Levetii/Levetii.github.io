@@ -1,5 +1,5 @@
 ---
-title: "Recipe – Hainan Mifen (海南米粉)"
+title: "Hainan Mifen"
 format: html
 ---
 
