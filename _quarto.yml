@@ -16,8 +16,7 @@ website:
         text: Travel Experience
       - href: reflection.qmd
         text: Reflection
-      - href: hainan_mifen.qmd
-        text: Recipe for Hainan Noodle
+      - hainan_mifen.qmd
 
 format:
   html:
