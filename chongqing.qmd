@@ -1,0 +1,76 @@
+---
+title: "Trip to Chongqing"
+format: html
+---
+
+#My Trip to Chongqing
+
+Chongqing, China — a vibrant city known for its stunning night views, spicy food, and mountainous terrain. This trip was an unforgettable blend of culinary adventure and scenic exploration.
+
+---
+
+## 🥢 Food Highlights
+
+### 1. Beef Noodle Soup
+
+A local staple — spicy, flavorful broth with tender beef and handmade noodles.
+
+![Beef Noodles](cq_trip_1.jpg){.img-small}
+
+---
+
+### 2. Street BBQ Skewers
+
+Late-night grilled skewers with a perfect blend of spice and char.
+
+![Skewers](cq_trip_2.jpg){.img-small}
+
+---
+
+### 3. Hotpot Feast
+
+The iconic Chongqing experience — half-spicy, half-collagen broth with a table full of fresh meat and sides.
+
+![Hotpot](cq_trip_3.jpg){.img-small}
+
+---
+
+### 4. Sichuan Dishes Medley
+
+From mapo tofu to tomato eggs and chili chicken, everything packed heat and depth of flavor.
+
+![Sichuan Food](cq_trip_4.jpg){.img-small}
+
+---
+
+## 🌆 Night Views & City Vibes
+
+### Hongya Cave at Night
+
+A surreal contrast of traditional architecture and urban skyscrapers. One of the most photogenic spots I've ever seen.
+
+![Hongya Cave](cq_trip_5.jpg){.img-small}
+
+---
+
+### Riverfront Lantern District
+
+A traditional-themed shopping and food street, glowing beautifully after dark.
+
+![Lantern Street](cq_trip_6.jpg){.img-small}
+
+---
+
+## 🌿 Nature
+
+### Waterfall Trail
+
+Hidden within the mountainous forest trail, this spot offered peace and awe in contrast to the city buzz.
+
+![Waterfall](cq_trip_7.jpg){.img-small}
+
+---
+
+## 🧳 Final Thoughts
+
+Chongqing was intense — in flavor, in color, and in experience. The mix of tradition and modernity, urban sprawl and natural beauty, made it one of the most unique destinations I’ve ever visited.

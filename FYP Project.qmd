@@ -1,0 +1,52 @@
+---
+title: "FYP – ProjectRGB"
+format: html
+---
+
+# 🎮 ProjectRGB
+
+**ProjectRGB** is a collaborative school project developed during my time at **Temasek Polytechnic** (September 2020), alongside a team of four members. The aim of this project was to design and implement an engaging **mobile hybrid game** that blends the mechanics of **side-scrolling endless runners** with traditional **platformer** gameplay.
+
+---
+
+## 🛠️ Key Features
+
+- Built with the **Unity** game engine
+- Designed for **mobile** platforms
+- Combines **endless runner** and **platformer** mechanics
+- Developed by a 4-member team as part of a school module
+- Educational, non-commercial use of third-party audio assets
+
+---
+
+## 🎬 Watch the Demo
+
+Check out the gameplay video below:
+
+::: {#video-wrapper}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2OI2cjytNB0?si=LfiqxODR6mvprilD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
+---
+
+## 🧠 My Role
+
+In this project, I contributed to:
+
+- Gameplay logic and scripting in C#
+- UI design and user interaction flow
+- Level design and game balancing
+- Integration and testing on mobile devices
+
+---
+
+## 🔊 Disclaimer
+
+> The audio used in **ProjectRGB** is not original. It was sourced from respective content owners and used solely for the purpose of this **non-commercial educational** project.
+
+---
+
+## 🏁 Outcome
+
+This project was a rewarding learning experience that strengthened my teamwork, game development, and software design skills. It laid a solid foundation for my continued interest in creating interactive, user-focused digital products.
+

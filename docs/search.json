@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi! I’m Lim Sheng Yang, a dedicated and analytical software engineering student at Singapore Institute of Technology (SIT). This website is a showcase of my academic journey, professional development, and personal reflections.\n\n\n\nI am passionate about building robust and meaningful software solutions that solve real-world problems. My core interests include:\n\nSoftware development (Java, Python, JavaScript)\nWeb technologies (HTML, CSS, React)\nCloud and DevOps fundamentals\nAI/ML applications in practical systems\nSystem design and optimization\n\n\n\n\n\n\nProgramming Languages: Java, Python, JavaScript, C++\nTools & Platforms: Git, GitHub, VS Code, Linux, SQL\nWeb Technologies: HTML5, CSS3, Bootstrap\nSoft Skills: Team collaboration, analytical thinking, problem-solving\n\n\n\n\n\nAs a SIT undergraduate in Applied Artificial Intelligence, I am currently enhancing my understanding of:\n\nMachine learning models and frameworks\nFull-stack application development\nEthical use of AI in software systems\nAgile methodologies in team projects\n\n\n\n\n\n\n\n\nCoding\n\n\n“Code is like humor. When you have to explain it, it’s bad.” – Cory House\n\n\n\n\n\nLinkedIn\nGitHub\n\nThanks for visiting!"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,194 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "FYP Project.html",
+    "href": "FYP Project.html",
+    "title": "FYP – ProjectRGB",
+    "section": "",
+    "text": "ProjectRGB is a collaborative school project developed during my time at Temasek Polytechnic (September 2020), alongside a team of four members. The aim of this project was to design and implement an engaging mobile hybrid game that blends the mechanics of side-scrolling endless runners with traditional platformer gameplay.\n\n\n\n\nBuilt with the Unity game engine\nDesigned for mobile platforms\nCombines endless runner and platformer mechanics\nDeveloped by a 4-member team as part of a school module\nEducational, non-commercial use of third-party audio assets\n\n\n\n\n\nCheck out the gameplay video below:\n\n\n\n\n\n\n\n\nIn this project, I contributed to:\n\nGameplay logic and scripting in C#\nUI design and user interaction flow\nLevel design and game balancing\nIntegration and testing on mobile devices\n\n\n\n\n\n\nThe audio used in ProjectRGB is not original. It was sourced from respective content owners and used solely for the purpose of this non-commercial educational project.\n\n\n\n\n\nThis project was a rewarding learning experience that strengthened my teamwork, game development, and software design skills. It laid a solid foundation for my continued interest in creating interactive, user-focused digital products."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Home",
+    "section": "",
+    "text": "I am passionate about building robust and meaningful software solutions that solve real-world problems. My core interests include:\n\nSoftware development (Java, Python, JavaScript)\nWeb technologies (HTML, CSS, React)\nCloud and DevOps fundamentals\nAI/ML applications in practical systems\nSystem design and optimization"
+  },
+  {
+    "objectID": "index.html#skills-tools",
+    "href": "index.html#skills-tools",
+    "title": "Home",
+    "section": "",
+    "text": "Programming Languages: Java, Python, JavaScript, C++\nTools & Platforms: Git, GitHub, VS Code, Linux, SQL\nWeb Technologies: HTML5, CSS3, Bootstrap\nSoft Skills: Team collaboration, analytical thinking, problem-solving"
+  },
+  {
+    "objectID": "index.html#current-focus",
+    "href": "index.html#current-focus",
+    "title": "Home",
+    "section": "",
+    "text": "As a SIT undergraduate in Applied Artificial Intelligence, I am currently enhancing my understanding of:\n\nMachine learning models and frameworks\nFull-stack application development\nEthical use of AI in software systems\nAgile methodologies in team projects"
+  },
+  {
+    "objectID": "index.html#visual",
+    "href": "index.html#visual",
+    "title": "Home",
+    "section": "",
+    "text": "Coding\n\n\n“Code is like humor. When you have to explain it, it’s bad.” – Cory House"
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "Home",
+    "section": "",
+    "text": "LinkedIn\nGitHub\n\nThanks for visiting!"
+  },
+  {
+    "objectID": "FYP Project.html#key-features",
+    "href": "FYP Project.html#key-features",
+    "title": "FYP – ProjectRGB",
+    "section": "",
+    "text": "Built with the Unity game engine\nDesigned for mobile platforms\nCombines endless runner and platformer mechanics\nDeveloped by a 4-member team as part of a school module\nEducational, non-commercial use of third-party audio assets"
+  },
+  {
+    "objectID": "FYP Project.html#watch-the-demo",
+    "href": "FYP Project.html#watch-the-demo",
+    "title": "FYP – ProjectRGB",
+    "section": "",
+    "text": "Check out the gameplay video below:"
+  },
+  {
+    "objectID": "FYP Project.html#my-role",
+    "href": "FYP Project.html#my-role",
+    "title": "FYP – ProjectRGB",
+    "section": "",
+    "text": "In this project, I contributed to:\n\nGameplay logic and scripting in C#\nUI design and user interaction flow\nLevel design and game balancing\nIntegration and testing on mobile devices"
+  },
+  {
+    "objectID": "FYP Project.html#disclaimer",
+    "href": "FYP Project.html#disclaimer",
+    "title": "FYP – ProjectRGB",
+    "section": "",
+    "text": "The audio used in ProjectRGB is not original. It was sourced from respective content owners and used solely for the purpose of this non-commercial educational project."
+  },
+  {
+    "objectID": "FYP Project.html#outcome",
+    "href": "FYP Project.html#outcome",
+    "title": "FYP – ProjectRGB",
+    "section": "",
+    "text": "This project was a rewarding learning experience that strengthened my teamwork, game development, and software design skills. It laid a solid foundation for my continued interest in creating interactive, user-focused digital products."
+  },
+  {
+    "objectID": "chongqing.html",
+    "href": "chongqing.html",
+    "title": "Trip to Chongqing",
+    "section": "",
+    "text": "#My Trip to Chongqing\nChongqing, China — a vibrant city known for its stunning night views, spicy food, and mountainous terrain. This trip was an unforgettable blend of culinary adventure and scenic exploration."
+  },
+  {
+    "objectID": "chongqing.html#food-highlights",
+    "href": "chongqing.html#food-highlights",
+    "title": "Trip to Chongqing",
+    "section": "🥢 Food Highlights",
+    "text": "🥢 Food Highlights\n\n1. Beef Noodle Soup\nA local staple — spicy, flavorful broth with tender beef and handmade noodles.\n\n\n\nBeef Noodles\n\n\n\n\n\n2. Street BBQ Skewers\nLate-night grilled skewers with a perfect blend of spice and char.\n\n\n\nSkewers\n\n\n\n\n\n3. Hotpot Feast\nThe iconic Chongqing experience — half-spicy, half-collagen broth with a table full of fresh meat and sides.\n\n\n\nHotpot\n\n\n\n\n\n4. Sichuan Dishes Medley\nFrom mapo tofu to tomato eggs and chili chicken, everything packed heat and depth of flavor.\n\n\n\nSichuan Food"
+  },
+  {
+    "objectID": "chongqing.html#night-views-city-vibes",
+    "href": "chongqing.html#night-views-city-vibes",
+    "title": "Trip to Chongqing",
+    "section": "🌆 Night Views & City Vibes",
+    "text": "🌆 Night Views & City Vibes\n\nHongya Cave at Night\nA surreal contrast of traditional architecture and urban skyscrapers. One of the most photogenic spots I’ve ever seen.\n\n\n\nHongya Cave\n\n\n\n\n\nRiverfront Lantern District\nA traditional-themed shopping and food street, glowing beautifully after dark.\n\n\n\nLantern Street"
+  },
+  {
+    "objectID": "chongqing.html#nature",
+    "href": "chongqing.html#nature",
+    "title": "Trip to Chongqing",
+    "section": "🌿 Nature",
+    "text": "🌿 Nature\n\nWaterfall Trail\nHidden within the mountainous forest trail, this spot offered peace and awe in contrast to the city buzz.\n\n\n\nWaterfall"
+  },
+  {
+    "objectID": "chongqing.html#final-thoughts",
+    "href": "chongqing.html#final-thoughts",
+    "title": "Trip to Chongqing",
+    "section": "🧳 Final Thoughts",
+    "text": "🧳 Final Thoughts\nChongqing was intense — in flavor, in color, and in experience. The mix of tradition and modernity, urban sprawl and natural beauty, made it one of the most unique destinations I’ve ever visited."
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "Throughout the process of completing this website assignment, I used ChatGPT, a Generative AI tool developed by OpenAI, to support and streamline my workflow. The assistance it provided was both time-saving and educational.\n\n\n\nI chose to use ChatGPT because I wanted fast, structured guidance for: - Understanding Quarto syntax - Generating content for .qmd files - Formatting YAML headers and CSS styling - Summarizing and organizing ideas clearly\nIt allowed me to focus more on content curation and personal input rather than struggling with formatting or markdown structure.\n\n\n\n\nHere are specific examples of how GenAI supported me:\n\n🏠 Helped me write my homepage with a balanced tone between personal and professional.\n🎮 Assisted in structuring my ProjectRGB (FYP) page with technical clarity.\n🌆 Generated content for my Chongqing trip using my uploaded images and descriptions.\n🎨 Suggested adjustments in style.css to resize images and improve layout.\n📚 Guided me in updating _quarto.yml to ensure navigation worked correctly.\n\n\n\n\n\n\nEfficiency: Saved a lot of time when generating or cleaning up markdown content.\nClarity: Provided well-structured examples and templates I could adapt.\nLearning: Improved my understanding of Quarto, markdown, and how to apply custom styles.\n\n\n\n\n\n\nAI-generated text sometimes lacked personal voice or nuance — I had to edit for tone and accuracy.\nI needed to double-check code blocks to ensure they met the lab’s requirements exactly.\n\n\n\n\n\nI plan to continue using GenAI tools for:\n\nGenerating boilerplate code and documentation\n\nWriting summaries or technical descriptions\n\nBrainstorming structure for larger reports or projects\n\nHowever, I will always verify and revise AI-generated content to ensure it aligns with context, requirements, and originality.\n\n\nUsing GenAI isn’t about replacing effort — it’s about enhancing productivity while still maintaining ownership over the work."
+  },
+  {
+    "objectID": "reflection.html#why-i-chose-genai",
+    "href": "reflection.html#why-i-chose-genai",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "I chose to use ChatGPT because I wanted fast, structured guidance for: - Understanding Quarto syntax - Generating content for .qmd files - Formatting YAML headers and CSS styling - Summarizing and organizing ideas clearly\nIt allowed me to focus more on content curation and personal input rather than struggling with formatting or markdown structure."
+  },
+  {
+    "objectID": "reflection.html#how-it-helped",
+    "href": "reflection.html#how-it-helped",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "Here are specific examples of how GenAI supported me:\n\n🏠 Helped me write my homepage with a balanced tone between personal and professional.\n🎮 Assisted in structuring my ProjectRGB (FYP) page with technical clarity.\n🌆 Generated content for my Chongqing trip using my uploaded images and descriptions.\n🎨 Suggested adjustments in style.css to resize images and improve layout.\n📚 Guided me in updating _quarto.yml to ensure navigation worked correctly."
+  },
+  {
+    "objectID": "reflection.html#benefits",
+    "href": "reflection.html#benefits",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "Efficiency: Saved a lot of time when generating or cleaning up markdown content.\nClarity: Provided well-structured examples and templates I could adapt.\nLearning: Improved my understanding of Quarto, markdown, and how to apply custom styles."
+  },
+  {
+    "objectID": "reflection.html#challenges",
+    "href": "reflection.html#challenges",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "AI-generated text sometimes lacked personal voice or nuance — I had to edit for tone and accuracy.\nI needed to double-check code blocks to ensure they met the lab’s requirements exactly."
+  },
+  {
+    "objectID": "reflection.html#future-use-of-genai",
+    "href": "reflection.html#future-use-of-genai",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "I plan to continue using GenAI tools for:\n\nGenerating boilerplate code and documentation\n\nWriting summaries or technical descriptions\n\nBrainstorming structure for larger reports or projects\n\nHowever, I will always verify and revise AI-generated content to ensure it aligns with context, requirements, and originality.\n\n\nUsing GenAI isn’t about replacing effort — it’s about enhancing productivity while still maintaining ownership over the work."
+  },
+  {
+    "objectID": "hainan_mifen.html",
+    "href": "hainan_mifen.html",
+    "title": "Recipe – Hainan Mifen (海南米粉)",
+    "section": "",
+    "text": "Hainan Mifen is a popular noodle dish from Hainan, China, known for its fragrant broth, soft rice noodles, and variety of toppings. It’s a comfort food that’s both hearty and refreshing — perfect for any time of day.\n\n\n\n\n\n\n1 whole chicken or 500g chicken bones\n1 small piece of ginger (sliced)\n2 cloves garlic (crushed)\n1 spring onion\nSalt to taste\nOptional: white pepper, MSG for umami\n\n\n\n\n\nBlanched bean sprouts\nSliced poached chicken or pork belly\nPreserved mustard greens (酸菜)\nChopped coriander and spring onions\nFried garlic and shallots\nChili oil or minced chili\n\n\n\n\n\n200g fresh Hainan-style rice vermicelli (米粉)\n\n\n\n\n\n\n\n\n\nBoil the chicken or bones in water for 5 mins to remove impurities.\nDiscard the water, rinse the meat, and refill the pot with 1.5L of fresh water.\nAdd ginger, garlic, and spring onion. Simmer for 1–1.5 hours.\nAdd salt (and optional white pepper or MSG) to taste.\n\n\n\n\n\nBring water to a boil in a separate pot.\nAdd the rice vermicelli and cook for 2–3 minutes until soft.\nDrain and rinse under cold water to prevent sticking.\n\n\n\n\n\nPlace noodles into a bowl.\nAdd toppings: meat slices, bean sprouts, preserved greens.\nPour hot broth over the noodles.\nGarnish with coriander, spring onion, and fried garlic.\nAdd chili oil or fresh chili for spice.\n\n\n\n\n\n\n\n\n\n\n海南米粉 (Hainanese Rice Noodles)\n\n\n\nEnjoy Hainan Mifen piping hot with a cold drink on the side!\nThe clear chicken broth, springy rice noodles, and savory toppings create a satisfying yet gentle flavor profile that’s great for breakfast or a light lunch. This dish is deeply rooted in Hainanese street food culture and represents simple comfort.\n\n\n\n\n\nThe broth can be made in advance and refrigerated for 2–3 days.\nYou can customize toppings with boiled egg, tofu skin, or pickled radish.\nFor a stronger taste, add soy sauce or black vinegar just before serving.\n\n\n\nA simple bowl that reminds me of home. 海南米粉 isn’t just food — it’s warmth, comfort, and culture."
+  },
+  {
+    "objectID": "hainan_mifen.html#ingredients",
+    "href": "hainan_mifen.html#ingredients",
+    "title": "Recipe – Hainan Mifen (海南米粉)",
+    "section": "",
+    "text": "1 whole chicken or 500g chicken bones\n1 small piece of ginger (sliced)\n2 cloves garlic (crushed)\n1 spring onion\nSalt to taste\nOptional: white pepper, MSG for umami\n\n\n\n\n\nBlanched bean sprouts\nSliced poached chicken or pork belly\nPreserved mustard greens (酸菜)\nChopped coriander and spring onions\nFried garlic and shallots\nChili oil or minced chili\n\n\n\n\n\n200g fresh Hainan-style rice vermicelli (米粉)"
+  },
+  {
+    "objectID": "hainan_mifen.html#cooking-steps",
+    "href": "hainan_mifen.html#cooking-steps",
+    "title": "Recipe – Hainan Mifen (海南米粉)",
+    "section": "",
+    "text": "Boil the chicken or bones in water for 5 mins to remove impurities.\nDiscard the water, rinse the meat, and refill the pot with 1.5L of fresh water.\nAdd ginger, garlic, and spring onion. Simmer for 1–1.5 hours.\nAdd salt (and optional white pepper or MSG) to taste.\n\n\n\n\n\nBring water to a boil in a separate pot.\nAdd the rice vermicelli and cook for 2–3 minutes until soft.\nDrain and rinse under cold water to prevent sticking.\n\n\n\n\n\nPlace noodles into a bowl.\nAdd toppings: meat slices, bean sprouts, preserved greens.\nPour hot broth over the noodles.\nGarnish with coriander, spring onion, and fried garlic.\nAdd chili oil or fresh chili for spice."
+  },
+  {
+    "objectID": "hainan_mifen.html#serving-suggestion",
+    "href": "hainan_mifen.html#serving-suggestion",
+    "title": "Recipe – Hainan Mifen (海南米粉)",
+    "section": "",
+    "text": "海南米粉 (Hainanese Rice Noodles)\n\n\n\nEnjoy Hainan Mifen piping hot with a cold drink on the side!\nThe clear chicken broth, springy rice noodles, and savory toppings create a satisfying yet gentle flavor profile that’s great for breakfast or a light lunch. This dish is deeply rooted in Hainanese street food culture and represents simple comfort."
+  },
+  {
+    "objectID": "hainan_mifen.html#tips",
+    "href": "hainan_mifen.html#tips",
+    "title": "Recipe – Hainan Mifen (海南米粉)",
+    "section": "",
+    "text": "The broth can be made in advance and refrigerated for 2–3 days.\nYou can customize toppings with boiled egg, tofu skin, or pickled radish.\nFor a stronger taste, add soy sauce or black vinegar just before serving.\n\n\n\nA simple bowl that reminds me of home. 海南米粉 isn’t just food — it’s warmth, comfort, and culture."
   }
 ]

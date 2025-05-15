@@ -1,11 +1,57 @@
 ---
-title: "temp_website"
+title: "Home"
+format: html
 ---
 
-This is a Quarto website.
+# 👋 Welcome to My Personal Website
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi! I'm **Lim Sheng Yang**, a dedicated and analytical software engineering student at **Singapore Institute of Technology (SIT)**. This website is a showcase of my academic journey, professional development, and personal reflections.
 
-```{r}
-1 + 1
-```
+---
+
+## 💼 About Me
+
+I am passionate about building robust and meaningful software solutions that solve real-world problems. My core interests include:
+
+- **Software development** (Java, Python, JavaScript)
+- **Web technologies** (HTML, CSS, React)
+- **Cloud and DevOps fundamentals**
+- **AI/ML applications in practical systems**
+- **System design and optimization**
+
+---
+
+## 🔧 Skills & Tools
+
+- **Programming Languages:** Java, Python, JavaScript, C++
+- **Tools & Platforms:** Git, GitHub, VS Code, Linux, SQL
+- **Web Technologies:** HTML5, CSS3, Bootstrap
+- **Soft Skills:** Team collaboration, analytical thinking, problem-solving
+
+---
+
+## 📚 Current Focus
+
+As a SIT undergraduate in Applied Artificial Intelligence, I am currently enhancing my understanding of:
+
+- Machine learning models and frameworks
+- Full-stack application development
+- Ethical use of AI in software systems
+- Agile methodologies in team projects
+
+---
+
+## 🖼️ Visual
+
+![Coding](code.jpeg)
+
+*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+
+---
+
+## 📬 Get in Touch
+
+- [LinkedIn](https://www.linkedin.com/in/lim-sheng-yang-97396a86/)
+- [GitHub](https://github.com/levetii)
+
+Thanks for visiting!

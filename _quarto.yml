@@ -1,22 +1,28 @@
 project:
   type: website
   output-dir: docs
-
+  
 website:
-  title: "temp_website"
+  title: "Personal Website"
+  favicon: favicon.png
   navbar:
+    logo: logo.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: FYP Project.qmd
+        text: FYP - Project RGB
+      - href: chongqing.qmd
+        text: Travel Experience
+      - href: reflection.qmd
+        text: Reflection
+      - href: hainan_mifen.qmd
+        text: Recipe for Hainan Noodle
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: darkly
     css: styles.css
     toc: true
-
-
-
+    toc-depth: 3
+    toc-location: left

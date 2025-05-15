@@ -1,0 +1,63 @@
+---
+title: "Reflection on the use of GenAI"
+format: html
+---
+
+# 🤖 Reflection on the use of GenAI
+
+Throughout the process of completing this website assignment, I used **ChatGPT**, a Generative AI tool developed by OpenAI, to support and streamline my workflow. The assistance it provided was both time-saving and educational.
+
+---
+
+## 💡 Why I Chose GenAI
+
+I chose to use ChatGPT because I wanted fast, structured guidance for:
+- Understanding **Quarto syntax**
+- Generating content for `.qmd` files
+- Formatting YAML headers and CSS styling
+- Summarizing and organizing ideas clearly
+
+It allowed me to focus more on content curation and personal input rather than struggling with formatting or markdown structure.
+
+---
+
+## ✅ How It Helped
+
+Here are specific examples of how GenAI supported me:
+
+- 🏠 Helped me write my **homepage** with a balanced tone between personal and professional.
+- 🎮 Assisted in structuring my **ProjectRGB (FYP)** page with technical clarity.
+- 🌆 Generated content for my **Chongqing trip** using my uploaded images and descriptions.
+- 🎨 Suggested adjustments in `style.css` to resize images and improve layout.
+- 📚 Guided me in updating `_quarto.yml` to ensure navigation worked correctly.
+
+---
+
+## 🌟 Benefits
+
+- **Efficiency**: Saved a lot of time when generating or cleaning up markdown content.
+- **Clarity**: Provided well-structured examples and templates I could adapt.
+- **Learning**: Improved my understanding of Quarto, markdown, and how to apply custom styles.
+
+---
+
+## ⚠️ Challenges
+
+- AI-generated text sometimes lacked personal voice or nuance — I had to edit for tone and accuracy.
+- I needed to double-check code blocks to ensure they met the lab's requirements exactly.
+
+---
+
+## 🔮 Future Use of GenAI
+
+I plan to continue using GenAI tools for:
+
+- Generating boilerplate code and documentation  
+- Writing summaries or technical descriptions  
+- Brainstorming structure for larger reports or projects
+
+However, I will always verify and revise AI-generated content to ensure it aligns with context, requirements, and originality.
+
+---
+
+> Using GenAI isn't about replacing effort — it's about enhancing productivity while still maintaining ownership over the work.
